@@ -31,7 +31,7 @@
 			<string>google</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>REVERSED_CLIENT_ID</string>
+				<string>com.googleusercontent.apps.692322273498-ev7j2o87che6fm3eb7srtrn2f42jjjef</string>
 			</array>
 		</dict>
 		<dict>
@@ -42,6 +42,16 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>fb{your-app-id}</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>twitter</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>UGXu0ElktfX9kyvBHWAT6qiYo9tuLyVfvdsM5QU2HLZwV9Wr5oME7xr8C4wRoHEX7NXG6rSFfF4</string>
 			</array>
 		</dict>
 	</array>
